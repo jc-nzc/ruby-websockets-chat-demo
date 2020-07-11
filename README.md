@@ -22,3 +22,5 @@ $ foreman start
 ```
 
 You can now visit <http://localhost:5000> to see the application.
+
+last error: ! Unable to load application: URI::InvalidURIError: bad URI(is not URI?): nil
