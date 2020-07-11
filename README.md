@@ -24,3 +24,5 @@ $ foreman start
 You can now visit <http://localhost:5000> to see the application.
 
 last error: ! Unable to load application: URI::InvalidURIError: bad URI(is not URI?): nil
+start a Redis server locally in order for this application to work..
+https://github.com/heroku-examples/ruby-websockets-chat-demo/issues/10
